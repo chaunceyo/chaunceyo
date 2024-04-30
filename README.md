@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chauncey Ogletree</h1>
 <h3 align="center">An industrious Full Stack Web Developer from Georgia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaunceyo&label=Profile%20views&color=0e75b6&style=flat" alt="chaunceyo" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaunceyo" alt="chaunceyo" /></a> </p>
 
 - 🔭 I’m currently working on **React and Javascript projects.**
 
-- 🌱 I’m currently learning **Full Stack development.**
+- 🌱 I’m currently learning **Full Stack development at BloomTech.**
 
 - 👯 I’m looking to collaborate on **research insights.**
 
